@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YatheeshkumarReddy
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate with ExcelR solutions 
 - 📫 How to reach me ...
 
 <!---
